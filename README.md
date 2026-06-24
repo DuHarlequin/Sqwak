@@ -23,17 +23,11 @@
 
 ## 🚀 Instalación y Uso
 
-1. Descarga la última versión (`app-debug.apk`) desde la sección de **Releases**.
+1. Descarga la última versión (`Sqwak.apk`) desde la sección de **Releases**.
 2. Instala el APK en tu dispositivo Android (requiere Android 7.0 / API 24 o superior).
 3. Concede los permisos de lectura de almacenamiento para que Squawk escanee tus archivos locales.
 4. ¡Disfruta de tu música!
 
-## 🔄 Sistema de Auto-Update
-
-Squawk está configurado para actualizarse por sí mismo. Cuando subas un nuevo Release a este repositorio:
-1. Crea un *Release* y asígnale un Tag superior a tu versión actual (Ej: `v1.1` o `v2.0`).
-2. Adjunta tu nuevo archivo `.apk` a los Assets del Release.
-3. La aplicación detectará automáticamente el cambio en el próximo inicio y ofrecerá la actualización de inmediato.
 
 ## 🛠️ Tecnologías
 
